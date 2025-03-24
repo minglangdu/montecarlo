@@ -1,6 +1,6 @@
 # Monte Carlo Simulation
 
-This is a simulation to find the probability of running out of money given a set of investments. 
+This is a simulation to find the probability of running out of money given a set of investments. It takes ideas and data from chapter 12 from [Impractical Python Projects](https://nostarch.com/impracticalpythonprojects), though the code is *completely* written from scratch. 
 
 ## Monte Carlo Explanation
 
